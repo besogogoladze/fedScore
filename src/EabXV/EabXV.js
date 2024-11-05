@@ -3,6 +3,7 @@ import React from "react";
 function EabXV() {
   return (
     <div>
+      <hr />
       <h1 style={{ textAlign: "center" }}>EAB XV</h1>
       <iframe
         id="672a9127e5468408d2648536"

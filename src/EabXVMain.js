@@ -7,7 +7,7 @@ const LazyProchaineMatch = React.lazy(() => import("./EabXV/ProchaineMatch"));
 
 function EabXV() {
   return (
-    <div>
+    <div style={{ margin: "30px 0" }}>
       <React.Suspense fallback={<div>Loading...</div>}>
         <LazyClassment />
       </React.Suspense>
