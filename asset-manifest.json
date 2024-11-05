@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fedScore/static/css/main.e6c13ad2.css",
+    "main.js": "/fedScore/static/js/main.c2ddd3ca.js",
+    "static/js/421.e617d2a7.chunk.js": "/fedScore/static/js/421.e617d2a7.chunk.js",
+    "static/js/367.440bcb27.chunk.js": "/fedScore/static/js/367.440bcb27.chunk.js",
+    "static/js/383.415fe0e4.chunk.js": "/fedScore/static/js/383.415fe0e4.chunk.js",
+    "static/js/209.dc5b1b36.chunk.js": "/fedScore/static/js/209.dc5b1b36.chunk.js",
+    "static/js/453.36f2d936.chunk.js": "/fedScore/static/js/453.36f2d936.chunk.js",
+    "index.html": "/fedScore/index.html",
+    "main.e6c13ad2.css.map": "/fedScore/static/css/main.e6c13ad2.css.map",
+    "main.c2ddd3ca.js.map": "/fedScore/static/js/main.c2ddd3ca.js.map",
+    "421.e617d2a7.chunk.js.map": "/fedScore/static/js/421.e617d2a7.chunk.js.map",
+    "367.440bcb27.chunk.js.map": "/fedScore/static/js/367.440bcb27.chunk.js.map",
+    "383.415fe0e4.chunk.js.map": "/fedScore/static/js/383.415fe0e4.chunk.js.map",
+    "209.dc5b1b36.chunk.js.map": "/fedScore/static/js/209.dc5b1b36.chunk.js.map",
+    "453.36f2d936.chunk.js.map": "/fedScore/static/js/453.36f2d936.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c2ddd3ca.js"
+  ]
+}
