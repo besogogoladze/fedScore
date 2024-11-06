@@ -11,7 +11,7 @@ function Router() {
     <BrowserRouter>
       <Layout>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="https://besogogoladze.github.io/fedScore/" element={<Home />} />
           <Route path="/EABXV" element={<EabXVMain />} />
           <Route path="/Nantes" element={<NantesMain />} />
           <Route path="/Havre" element={<HavreMain />} />
