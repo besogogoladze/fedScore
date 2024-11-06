@@ -12,9 +12,9 @@ function Router() {
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/fedScore/EABXV" element={<EabXVMain />} />
-          <Route path="/fedScore/Nantes" element={<NantesMain />} />
-          <Route path="/fedScore/Havre" element={<HavreMain />} />
+          <Route path="/EABXV" element={<EabXVMain />} />
+          <Route path="/Nantes" element={<NantesMain />} />
+          <Route path="/Havre" element={<HavreMain />} />
         </Routes>
       </Layout>
     </HashRouter>
