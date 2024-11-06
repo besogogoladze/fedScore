@@ -12,7 +12,7 @@ function Matchs() {
         src="https://v1.scorenco.com/widget/672a8eb2efaf0108c6f2600a/?auto_height=true"
         style={{
           display: "block",
-          width: "50%",
+          width: "100%",
           margin: "auto",
           borderWidth: "0px",
           height: "870px",

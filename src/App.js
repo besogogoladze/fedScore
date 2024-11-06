@@ -1,9 +1,13 @@
 import React from "react";
 import "./App.css";
-import EabXVMain from "./EabXVMain";
+import Router from "./Router/Router";
 
 function App() {
-  return <EabXVMain />;
+  return (
+    <>
+      <Router />
+    </>
+  );
 }
 
 export default App;

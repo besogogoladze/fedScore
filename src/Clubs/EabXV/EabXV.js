@@ -10,7 +10,7 @@ function EabXV() {
         src="https://v1.scorenco.com/widget/672a9127e5468408d2648536/?auto_height=true"
         style={{
           display: "block",
-          width: "50%",
+          width: "100%",
           margin: "auto",
           borderWidth: "0px",
           height: "480px",

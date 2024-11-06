@@ -5,16 +5,17 @@ function Classment() {
     <div>
       <h1 style={{ textAlign: "center" }}>Classment</h1>
       <iframe
-        id="6728e37c78f9f808cc12f5b1"
-        src="https://v1.scorenco.com/widget/6728e37c78f9f808cc12f5b1/?auto_height=true"
+        id="672b432f466b1408c71f3075"
+        src="https://v1.scorenco.com/widget/672b432f466b1408c71f3075/?auto_height=true"
         style={{
           display: "block",
-          width: "50%",
+          width: "100%",
           margin: "auto",
           borderWidth: "0px",
           height: "500px",
           overflow: "auto",
         }}
+        scrolling="no"
       ></iframe>
     </div>
   );
