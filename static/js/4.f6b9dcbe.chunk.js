@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfedscore=self.webpackChunkfedscore||[]).push([[4],{4:(e,t,c)=>{c.r(t),c.d(t,{default:()=>r});c(43);var s=c(579);const r=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h1",{style:{textAlign:"center"},children:"Classment"}),(0,s.jsx)("iframe",{id:"672b3bca4587e108cb8c3ee7",src:"https://v1.scorenco.com/widget/672b3bca4587e108cb8c3ee7/?auto_height=true",style:{display:"block",width:"100%",margin:"auto",borderWidth:"0px",height:"500px",overflow:"auto"},scrolling:"no"})]})}}}]);
+//# sourceMappingURL=4.f6b9dcbe.chunk.js.map
