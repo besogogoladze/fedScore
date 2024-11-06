@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import EabXVMain from "../ClubsMain/EabXVMain";
 import Home from "../Home/Home";
 import NantesMain from "../ClubsMain/NantesMain";
@@ -8,16 +8,16 @@ import Layout from "../Components/Layout";
 
 function Router() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Layout>
         <Routes>
-          <Route path="https://besogogoladze.github.io/fedScore/" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/EABXV" element={<EabXVMain />} />
           <Route path="/Nantes" element={<NantesMain />} />
           <Route path="/Havre" element={<HavreMain />} />
         </Routes>
       </Layout>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
