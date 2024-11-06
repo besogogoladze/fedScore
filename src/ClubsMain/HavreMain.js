@@ -1,5 +1,8 @@
 import React from "react";
 import ".././App.css";
+import Loading from "../Loading/Loading";
+
+
 const LazyClassment = React.lazy(() => import("../Clubs/Havre/Classment"));
 const LazyEabXV = React.lazy(() => import("../Clubs/Havre/Havre"));
 const LazyMatchs = React.lazy(() => import("../Clubs/Havre/Matchs"));
@@ -11,16 +14,16 @@ function HavreMain() {
   return (
     <div className="mainDiv">
       <div className="componentDiv">
-        <React.Suspense fallback={<div>Loading...</div>}>
+        <React.Suspense fallback={<Loading />}>
           <LazyClassment />
         </React.Suspense>
-        <React.Suspense fallback={<div>Loading...</div>}>
+        <React.Suspense fallback={<Loading />}>
           <LazyEabXV />
         </React.Suspense>
-        <React.Suspense fallback={<div>Loading...</div>}>
+        <React.Suspense fallback={<Loading />}>
           <LazyMatchs />
         </React.Suspense>
-        <React.Suspense fallback={<div>Loading...</div>}>
+        <React.Suspense fallback={<Loading />}>
           <LazyProchaineMatch />
         </React.Suspense>
       </div>
