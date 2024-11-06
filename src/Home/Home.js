@@ -7,9 +7,9 @@ function Home() {
       <div className="container">
         <img className="logo" alt="logo" src={logo} />
         <div className="homeButtonDiv">
-          <a href="/EABXV">EAB XV</a>
-          <a href="/Nantes">NANTES</a>
-          <a href="/Havre">HAVRE</a>
+          <a href="/fedScore/EABXV">EAB XV</a>
+          <a href="/fedScore/Nantes">NANTES</a>
+          <a href="/fedScore/Havre">HAVRE</a>
         </div>
       </div>
     </div>
