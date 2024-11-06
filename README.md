@@ -1,4 +1,4 @@
-# This site is for 4 rugby friends who play in French teams
+# This website is for 4 rugby friends who play in French teams
 
 Description:
 ***
