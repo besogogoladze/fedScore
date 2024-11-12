@@ -1,5 +1,7 @@
 {
-  "name": "fedscore",
+  "name": "fedcore",
+  "short_name": "fedscore",
+  "description": "This is for three club",
   "homepage": "https://besogogoladze.github.io/fedScore/",
   "version": "0.1.0",
   "private": true,
