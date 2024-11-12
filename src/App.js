@@ -1,6 +1,6 @@
 import React from "react";
-import "./App.module.css";
 import Router from "./Router/Router";
+import "./Styles.module.css";
 
 function App() {
   return (

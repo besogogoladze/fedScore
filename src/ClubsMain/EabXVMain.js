@@ -1,6 +1,7 @@
 import React from "react";
-import ".././App.module.css";
+import Styles from ".././Styles.module.css";
 import Loading from "../Loading/Loading";
+
 
 const LazyClassment = React.lazy(() => import("../Clubs/EabXV/Classment"));
 const LazyEabXV = React.lazy(() => import("../Clubs/EabXV/EabXV"));
@@ -11,8 +12,8 @@ const LazyProchaineMatch = React.lazy(() =>
 
 function EabXV() {
   return (
-    <div className="mainDiv">
-      <div className="componentDiv">
+    <div className={Styles.mainDiv}>
+      <div className={Styles.componentDiv}>
         <React.Suspense fallback={<Loading />}>
           <LazyClassment />
         </React.Suspense>
