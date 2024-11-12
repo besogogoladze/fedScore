@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfedcore=self.webpackChunkfedcore||[]).push([[681],{681:(e,t,r)=>{r.r(t),r.d(t,{default:()=>s});r(43);var c=r(579);const s=function(){return(0,c.jsxs)("div",{children:[(0,c.jsx)("hr",{}),(0,c.jsx)("h1",{style:{textAlign:"center"},children:"HAVRE"}),(0,c.jsx)("iframe",{id:"672b42514587e108d1efdc6b",src:"https://v1.scorenco.com/widget/672b42514587e108d1efdc6b/?auto_height=true",style:{display:"block",width:"100%",margin:"auto",borderWidth:"0px",height:"480px",overflow:"auto"},scrolling:"no"})]})}}}]);
+//# sourceMappingURL=681.0922341d.chunk.js.map
