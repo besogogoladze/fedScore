@@ -10,6 +10,7 @@ function Loading() {
         width: "100%",
         display: "flex",
         justifyContent: "center",
+        padding: "64px 0",
       }}
       style={{ margin: "50px 0" }}
     >
