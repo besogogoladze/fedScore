@@ -1,5 +1,5 @@
 import React from "react";
-import ".././App.css";
+import ".././App.module.css";
 import Loading from "../Loading/Loading";
 
 const LazyClassment = React.lazy(() => import("../Clubs/Nantes/Classment"));
