@@ -1,13 +1,12 @@
 import React from "react";
 
-function Classment() {
+function Classement() {
   return (
     <div>
-      <h1 style={{ textAlign: "center" }}>Classment</h1>
-
+      <h1 style={{ textAlign: "center" }}>Classement</h1>
       <iframe
-        id="672b3bca4587e108cb8c3ee7"
-        src="https://v1.scorenco.com/widget/672b3bca4587e108cb8c3ee7/?auto_height=true"
+        id="6728e37c78f9f808cc12f5b1"
+        src="https://v1.scorenco.com/widget/6728e37c78f9f808cc12f5b1/?auto_height=true"
         style={{
           display: "block",
           width: "100%",
@@ -16,10 +15,9 @@ function Classment() {
           height: "500px",
           overflow: "auto",
         }}
-        scrolling="no"
       ></iframe>
     </div>
   );
 }
 
-export default Classment;
+export default Classement;
