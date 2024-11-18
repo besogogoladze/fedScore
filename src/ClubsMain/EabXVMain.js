@@ -3,7 +3,7 @@ import Styles from ".././Styles.module.css";
 import Loading from "../Loading/Loading";
 
 
-const LazyClassment = React.lazy(() => import("../Clubs/EabXV/Classment"));
+const LazyClassment = React.lazy(() => import("../Clubs/EabXV/Classement"));
 const LazyEabXV = React.lazy(() => import("../Clubs/EabXV/EabXV"));
 const LazyMatchs = React.lazy(() => import("../Clubs/EabXV/Matchs"));
 const LazyProchaineMatch = React.lazy(() =>
